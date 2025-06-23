@@ -7,7 +7,7 @@ function Header() {
     <header className="site-header container-fluid d-flex align-items-center py-3">
       <Link to="/" className="d-flex align-items-center text-decoration-none w-100">
         <img
-          src="/image/logo.png"
+          src="https://i.ibb.co/wZLWkqWk/logo.png"
           alt="Логотип"
           className="site-logo"
         />
