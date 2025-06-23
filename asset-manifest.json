@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kursova_tourism/static/css/main.d6a2150d.css",
-    "main.js": "/kursova_tourism/static/js/main.a46c902a.js",
+    "main.js": "/kursova_tourism/static/js/main.936e82cf.js",
     "static/media/back.png": "/kursova_tourism/static/media/back.0d05e556ce3890ce8ba7.png",
     "index.html": "/kursova_tourism/index.html",
     "main.d6a2150d.css.map": "/kursova_tourism/static/css/main.d6a2150d.css.map",
-    "main.a46c902a.js.map": "/kursova_tourism/static/js/main.a46c902a.js.map"
+    "main.936e82cf.js.map": "/kursova_tourism/static/js/main.936e82cf.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a2150d.css",
-    "static/js/main.a46c902a.js"
+    "static/js/main.936e82cf.js"
   ]
 }
