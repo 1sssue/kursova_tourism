@@ -1,7 +1,7 @@
 {
   "name": "tourism-ua",
   "version": "0.1.0",
-  "homepage": "https://1sssue.github.io/",
+  "homepage": "https://1sssue.github.io/kursova_tourism/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
