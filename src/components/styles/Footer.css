@@ -1,0 +1,16 @@
+.site-footer {
+  background-color: var(--bg-dark-secondary);
+  color: var(--text-primary);
+  width: 100%;
+  margin-top: auto; /* Це важливо для притискання футера до низу */
+}
+
+@media (max-width: 768px) {
+  .site-header h1 {
+    font-size: 1.5rem;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+  }
+}
